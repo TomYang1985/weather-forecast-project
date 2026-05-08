@@ -1,0 +1,21 @@
+{
+  "test_set": {
+    "GRU": {
+      "mae": 1.5,
+      "rmse": 2.09
+    },
+    "Transformer": {
+      "mae": 1.89,
+      "rmse": 2.52
+    }
+  },
+  "today": {
+    "gru_avg": 23.4,
+    "tf_avg": 21.1,
+    "actual_avg": 21.2
+  },
+  "today_mae": {
+    "gru": 2.27,
+    "transformer": 1.37
+  }
+}

@@ -1,0 +1,8 @@
+# Python 缓存
+__pycache__/
+
+# 模型权重文件（太大，不适合 git）
+*.pth
+
+# reference 目录中的内嵌 git 仓库
+reference/
